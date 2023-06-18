@@ -1,0 +1,8 @@
+use .env or real env
+read source for more details
+
+RCTF_API=https://ctf.tjctf.org/api/v1/
+RCTF_TOKEN=rctf auth token
+
+SAVE_UPLOADS=true
+  anything else is false :lemonthink:

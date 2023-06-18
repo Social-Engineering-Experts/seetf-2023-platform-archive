@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"Hack@Sec","ctftimeId":"135426","division":"open","score":455,"globalPlace":190,"divisionPlace":144,"solves":[{"category":"Pwn","name":"🎓 Shellcode As A Service","points":455,"solves":41,"id":"eeb26f09-9da6-4a50-95a4-a6f563e7bb24","createdAt":1686472137287}]}}
